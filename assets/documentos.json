@@ -1,0 +1,162 @@
+{
+  "planos": {
+    "title": "Planos de la vivienda",
+    "pages": [
+      {
+        "title": "Emplazamiento",
+        "src": "documentos/planos/01.webp",
+        "width": 2800,
+        "height": 1981
+      },
+      {
+        "title": "Planta baja",
+        "src": "documentos/planos/02.webp",
+        "width": 2800,
+        "height": 1981
+      },
+      {
+        "title": "Planta primera",
+        "src": "documentos/planos/03.webp",
+        "width": 2800,
+        "height": 1981
+      },
+      {
+        "title": "Cubierta y terraza",
+        "src": "documentos/planos/04.webp",
+        "width": 2800,
+        "height": 1981
+      },
+      {
+        "title": "Fachadas",
+        "src": "documentos/planos/05.webp",
+        "width": 2800,
+        "height": 1981
+      },
+      {
+        "title": "Secciones",
+        "src": "documentos/planos/06.webp",
+        "width": 2800,
+        "height": 1981
+      },
+      {
+        "title": "Perfiles laterales",
+        "src": "documentos/planos/07.webp",
+        "width": 2800,
+        "height": 1981
+      }
+    ]
+  },
+  "presentacion": {
+    "title": "La presentación de tu casa",
+    "pages": [
+      {
+        "title": "Una casa para vivir",
+        "src": "documentos/presentacion/01.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "La propuesta",
+        "src": "documentos/presentacion/02.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "Ficha de vivienda",
+        "src": "documentos/presentacion/03.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "Una llegada con carácter",
+        "src": "documentos/presentacion/04.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "La vida, hacia fuera",
+        "src": "documentos/presentacion/05.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "Un lugar a la sombra",
+        "src": "documentos/presentacion/06.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "Una casa en su lugar",
+        "src": "documentos/presentacion/07.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "La luz de la mañana",
+        "src": "documentos/presentacion/08.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "Distribución PB",
+        "src": "documentos/presentacion/09.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "Distribución P1",
+        "src": "documentos/presentacion/10.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "Compartir el día",
+        "src": "documentos/presentacion/11.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "Cocinar y conversar",
+        "src": "documentos/presentacion/12.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "Descanso junto a la terraza",
+        "src": "documentos/presentacion/13.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "Una ventana al paisaje",
+        "src": "documentos/presentacion/14.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "Una mesa junto al jardín",
+        "src": "documentos/presentacion/15.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "Materialidad",
+        "src": "documentos/presentacion/16.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "Tiempos orientativos",
+        "src": "documentos/presentacion/17.webp",
+        "width": 2200,
+        "height": 1375
+      },
+      {
+        "title": "Natura 130",
+        "src": "documentos/presentacion/18.webp",
+        "width": 2200,
+        "height": 1375
+      }
+    ]
+  }
+}
