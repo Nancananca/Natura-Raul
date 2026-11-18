@@ -1,0 +1,190 @@
+{
+  "base": {
+    "label": "Opción base",
+    "docs": "assets/documentos.json",
+    "total": 168.75,
+    "terraza": 33.75,
+    "pb": 101.25,
+    "p1": 67.5,
+    "garaje": 36,
+    "dia": 31.5,
+    "hero": "renders/ext_02_jardin.png",
+    "headline": "La vida,<br>hacia fuera.",
+    "subtitle": "Una vivienda abierta al jardín. Blanco, madera y luz en Villamayor.",
+    "caption": "ABIERTA AL JARDÍN"
+  },
+  "opcion1": {
+    "pb": 109.2,
+    "p1": 76.44,
+    "total": 185.64,
+    "garaje": 35.88,
+    "terraza": 32.76,
+    "dia": 39.15,
+    "label": "Opción 1",
+    "model": "assets/modelo-opcion1.json",
+    "docs": "assets/documentos-opcion1.json",
+    "hero": "renders/opcion1/exterior-calle.png",
+    "headline": "La luz,<br>hacia el sur.",
+    "subtitle": "Garaje en línea, salida trasera al jardín y terraza hacia la calle.",
+    "caption": "TERRAZA HACIA LA CALLE",
+    "gallery": [
+      {
+        "id": "opcion1/exterior-calle",
+        "tipo": "exterior",
+        "titulo": "Llegar a casa",
+        "subtitulo": "ACCESO DESDE LA CALLE",
+        "texto": "Fachadas blancas y una terraza que mira hacia el acceso."
+      },
+      {
+        "id": "opcion1/exterior-jardin",
+        "tipo": "exterior",
+        "titulo": "Vivir hacia el jardín",
+        "subtitulo": "JARDÍN Y ENTORNO",
+        "texto": "La vivienda en relación con el espacio exterior de la parcela."
+      },
+      {
+        "id": "opcion1/exterior-aerea",
+        "tipo": "exterior",
+        "titulo": "Una casa en su lugar",
+        "subtitulo": "VOLUMETRÍA Y PARCELA",
+        "texto": "La nueva vivienda se adosa a la casa existente."
+      },
+      {
+        "id": "opcion1/exterior-lateral",
+        "tipo": "exterior",
+        "titulo": "La luz acompaña el día",
+        "subtitulo": "FACHADA LATERAL",
+        "texto": "Aperturas hacia el lateral libre y los espacios de jardín."
+      },
+      {
+        "id": "opcion1/exterior-terraza",
+        "tipo": "exterior",
+        "titulo": "Un espacio al aire libre",
+        "subtitulo": "TERRAZA PRIVADA",
+        "texto": "La terraza prolonga el espacio de descanso en la planta superior."
+      },
+      {
+        "id": "opcion1/exterior-noche",
+        "tipo": "exterior",
+        "titulo": "La casa al anochecer",
+        "subtitulo": "LUZ CÁLIDA · EXTERIOR",
+        "texto": "Una iluminación discreta acompaña la madera, los accesos y el jardín al final del día."
+      },
+      {
+        "id": "int_01_salon",
+        "tipo": "interior",
+        "titulo": "Compartir el día",
+        "subtitulo": "AMBIENTE INTERIOR · REFERENCIA",
+        "texto": "Atmósfera interior conservada: madera, tonos claros y luz. La distribución de esta opción se consulta en sus planos."
+      },
+      {
+        "id": "int_02_cocina",
+        "tipo": "interior",
+        "titulo": "Cocinar y conversar",
+        "subtitulo": "AMBIENTE INTERIOR · REFERENCIA",
+        "texto": "Atmósfera interior conservada: madera, tonos claros y luz. La distribución de esta opción se consulta en sus planos."
+      },
+      {
+        "id": "int_03_principal",
+        "tipo": "interior",
+        "titulo": "Descanso junto a la terraza",
+        "subtitulo": "AMBIENTE INTERIOR · REFERENCIA",
+        "texto": "Atmósfera interior conservada: madera, tonos claros y luz. La distribución de esta opción se consulta en sus planos."
+      },
+      {
+        "id": "int_04_luna",
+        "tipo": "interior",
+        "titulo": "Una ventana al paisaje",
+        "subtitulo": "AMBIENTE INTERIOR · REFERENCIA",
+        "texto": "Atmósfera interior conservada: madera, tonos claros y luz. La distribución de esta opción se consulta en sus planos."
+      },
+      {
+        "id": "int_05_comedor",
+        "tipo": "interior",
+        "titulo": "Una mesa junto al jardín",
+        "subtitulo": "AMBIENTE INTERIOR · REFERENCIA",
+        "texto": "Atmósfera interior conservada: madera, tonos claros y luz. La distribución de esta opción se consulta en sus planos."
+      }
+    ]
+  },
+  "opcion2": {
+    "pb": 104.64,
+    "p1": 97.91,
+    "total": 202.55,
+    "garaje": 33.292500000000004,
+    "terraza": 25.48,
+    "dia": 44.0825,
+    "label": "Opción 2",
+    "model": "assets/modelo-opcion2.json",
+    "docs": "assets/documentos-opcion2.json",
+    "hero": "renders/opcion2/exterior-aerea.png",
+    "headline": "La casa,<br>alrededor de la luz.",
+    "subtitle": "Volúmenes que abrazan un patio. Una gran suite, vestidor ampliado y escalera de dos tramos.",
+    "caption": "PATIO Y VOLÚMENES",
+    "gallery": [
+      {
+        "id": "opcion2/exterior-jardin",
+        "tipo": "exterior",
+        "titulo": "Vivir hacia el jardín",
+        "subtitulo": "JARDÍN Y ENTORNO",
+        "texto": "La vivienda en relación con el espacio exterior de la parcela."
+      },
+      {
+        "id": "opcion2/exterior-aerea",
+        "tipo": "exterior",
+        "titulo": "Una casa en su lugar",
+        "subtitulo": "VOLUMETRÍA Y PARCELA",
+        "texto": "La nueva vivienda se adosa a la casa existente."
+      },
+      {
+        "id": "opcion2/exterior-lateral",
+        "tipo": "exterior",
+        "titulo": "La luz acompaña el día",
+        "subtitulo": "FACHADA LATERAL",
+        "texto": "Aperturas hacia el lateral libre y los espacios de jardín."
+      },
+      {
+        "id": "opcion2/exterior-terraza",
+        "tipo": "exterior",
+        "titulo": "Un espacio al aire libre",
+        "subtitulo": "TERRAZA PRIVADA",
+        "texto": "La terraza prolonga el espacio de descanso en la planta superior."
+      },
+      {
+        "id": "int_01_salon",
+        "tipo": "interior",
+        "titulo": "Compartir el día",
+        "subtitulo": "AMBIENTE INTERIOR · REFERENCIA",
+        "texto": "Atmósfera interior conservada: madera, tonos claros y luz. La distribución de esta opción se consulta en sus planos."
+      },
+      {
+        "id": "int_02_cocina",
+        "tipo": "interior",
+        "titulo": "Cocinar y conversar",
+        "subtitulo": "AMBIENTE INTERIOR · REFERENCIA",
+        "texto": "Atmósfera interior conservada: madera, tonos claros y luz. La distribución de esta opción se consulta en sus planos."
+      },
+      {
+        "id": "int_03_principal",
+        "tipo": "interior",
+        "titulo": "Descanso junto a la terraza",
+        "subtitulo": "AMBIENTE INTERIOR · REFERENCIA",
+        "texto": "Atmósfera interior conservada: madera, tonos claros y luz. La distribución de esta opción se consulta en sus planos."
+      },
+      {
+        "id": "int_04_luna",
+        "tipo": "interior",
+        "titulo": "Una ventana al paisaje",
+        "subtitulo": "AMBIENTE INTERIOR · REFERENCIA",
+        "texto": "Atmósfera interior conservada: madera, tonos claros y luz. La distribución de esta opción se consulta en sus planos."
+      },
+      {
+        "id": "int_05_comedor",
+        "tipo": "interior",
+        "titulo": "Una mesa junto al jardín",
+        "subtitulo": "AMBIENTE INTERIOR · REFERENCIA",
+        "texto": "Atmósfera interior conservada: madera, tonos claros y luz. La distribución de esta opción se consulta en sus planos."
+      }
+    ]
+  }
+}

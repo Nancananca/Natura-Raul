@@ -1,0 +1,168 @@
+{
+  "planos": {
+    "title": "Planos · Opción 1 R11",
+    "pages": [
+      {
+        "title": "Emplazamiento",
+        "src": "documentos/opcion1/planos/01.webp",
+        "width": 2800,
+        "height": 1981
+      },
+      {
+        "title": "Planta baja",
+        "src": "documentos/opcion1/planos/02.webp",
+        "width": 2800,
+        "height": 1981
+      },
+      {
+        "title": "Planta primera",
+        "src": "documentos/opcion1/planos/03.webp",
+        "width": 2800,
+        "height": 1981
+      },
+      {
+        "title": "Cubiertas",
+        "src": "documentos/opcion1/planos/04.webp",
+        "width": 2800,
+        "height": 1981
+      },
+      {
+        "title": "Alzados · calle y jardín",
+        "src": "documentos/opcion1/planos/05.webp",
+        "width": 2800,
+        "height": 1981
+      },
+      {
+        "title": "Perfiles · lateral y medianera",
+        "src": "documentos/opcion1/planos/06.webp",
+        "width": 2800,
+        "height": 1981
+      },
+      {
+        "title": "Sección longitudinal",
+        "src": "documentos/opcion1/planos/07.webp",
+        "width": 2800,
+        "height": 1981
+      }
+    ]
+  },
+  "presentacion": {
+    "title": "Presentación - Opción 1 R11",
+    "pages": [
+      {
+        "title": "Natura 130 - propuesta",
+        "src": "documentos/opcion1/presentacion/01.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "La idea de la vivienda",
+        "src": "documentos/opcion1/presentacion/02.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "Ficha de la vivienda",
+        "src": "documentos/opcion1/presentacion/03.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "La casa en su parcela",
+        "src": "documentos/opcion1/presentacion/04.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "Planta baja",
+        "src": "documentos/opcion1/presentacion/05.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "Planta primera",
+        "src": "documentos/opcion1/presentacion/06.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "Llegar a casa",
+        "src": "documentos/opcion1/presentacion/07.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "Vivir hacia el jardín",
+        "src": "documentos/opcion1/presentacion/08.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "La fachada lateral",
+        "src": "documentos/opcion1/presentacion/09.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "Un lugar al aire libre",
+        "src": "documentos/opcion1/presentacion/10.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "Salón - ambiente de referencia",
+        "src": "documentos/opcion1/presentacion/11.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "Cocina - ambiente de referencia",
+        "src": "documentos/opcion1/presentacion/12.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "Dormitorio - ambiente de referencia",
+        "src": "documentos/opcion1/presentacion/13.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "Luz y calma - ambiente de referencia",
+        "src": "documentos/opcion1/presentacion/14.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "Comedor - ambiente de referencia",
+        "src": "documentos/opcion1/presentacion/15.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "Materiales y atmósfera",
+        "src": "documentos/opcion1/presentacion/16.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "El camino hasta la entrega",
+        "src": "documentos/opcion1/presentacion/17.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "La casa al anochecer",
+        "src": "documentos/opcion1/presentacion/18.webp",
+        "width": 2200,
+        "height": 1556
+      },
+      {
+        "title": "Una casa para vivirla",
+        "src": "documentos/opcion1/presentacion/19.webp",
+        "width": 2200,
+        "height": 1556
+      }
+    ]
+  }
+}
